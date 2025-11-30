@@ -51,14 +51,17 @@ Passionate about Front-End, and UI/UX Design.
 
 
 
-## Socials: 
+### Connect with me:
 
-<p align="left">
-<a href="[https://github.com/chillalways0](https://www.linkedin.com/in/nattawut-sapmee-316032398/)4" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/nattawut-sapmee-316032398/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" />
+</a>
+
+<a href="https://github.com/chillalways04" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" title="GitHub" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" />
 </picture>
 </a>
-</p>
+
