@@ -54,7 +54,7 @@ Passionate about Front-End, and UI/UX Design.
 ## Socials: 
 
 <p align="left">
-<a href="https://github.com/chillalways04" target="_blank" rel="noreferrer">
+<a href="[https://github.com/chillalways0](https://www.linkedin.com/in/nattawut-sapmee-316032398/)4" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
