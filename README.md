@@ -2,7 +2,7 @@ Hi 👋 My name is Nattawut
 =========================
 
 ### A 3rd-year student at Faculty of Science, Kasetsart University Sriracha  
-Passionate about Software Development, Front-End, and UI/UX Design.
+Passionate about Front-End, and UI/UX Design.
 
 
 
